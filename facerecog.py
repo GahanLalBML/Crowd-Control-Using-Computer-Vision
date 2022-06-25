@@ -266,7 +266,8 @@ cap.release()
 
 
 # In[4]:
-
+# MAIN CODE
+# Problem faced: Right now can only detect face and emotion, i am right now facing problem with face recognition and getting the output right beside the face
 
 import cv2
 from fer import Video
